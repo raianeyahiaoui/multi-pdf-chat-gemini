@@ -6,7 +6,7 @@ Upload your PDFs, ask questions, and get contextual answers powered by RAG (Retr
 ---
 
 ## 📸 Demo Screenshot
-![Chat With Multiple PDFs](assets/chat_with_multiple_pdfs.png)
+![Chat With Multiple PDFs](assets/Chat_With_multiple_Pdf_Documents_with_Langchain.png)
 
 ---
 
